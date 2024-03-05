@@ -16,3 +16,5 @@
   - Express.js, MongoDB, Node.js, Nginx.
 - Miscellaneous:
   - Git, Figma, Insomnia, Webpack, Babel.
+
+![giphy](https://github.com/cloudninefalling/cloudninefalling/assets/126521847/16e4bcec-98be-45ea-8e52-672395b8078b)
