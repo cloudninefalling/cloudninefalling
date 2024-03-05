@@ -8,7 +8,7 @@
 
 ---
 
-### Мои Технологии:
+### 🔧 Мои Технологии:
 
 - Frontend:
   - React, Redux, Typescript, JavaScript, HTML, CSS.
