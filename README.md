@@ -11,10 +11,12 @@
 ### 🔧 Мои Технологии:
 
 - Frontend:
-  - React, Redux, Typescript, JavaScript, HTML, CSS.
+  - React, Redux, Next.js;
+  - Vue 2, Vue 3, Pinia, Vuex, Nuxt;
+  - Typescript, JavaScript, HTML, CSS.
 - Backend:
   - Express.js, MongoDB, Node.js, Nginx.
-- Miscellaneous:
+- Misc:
   - Git, Figma, Insomnia, Webpack, Babel.
 
 ![giphy](https://github.com/cloudninefalling/cloudninefalling/assets/126521847/16e4bcec-98be-45ea-8e52-672395b8078b)
