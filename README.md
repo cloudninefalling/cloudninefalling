@@ -1,22 +1,18 @@
 ### 👋 Приветствую, меня зовут Дмитрий
 
----
-
-- 🔭 Я люблю изучать новые технологии, копаться в документациях и держаться на волне с последними обновлениями.
-- 👯 Хочу найти команду, с которой можно постоянно совершенствоваться и творить вместе
-- ⚡ Активно ищу работу! Моё резюме: https://spb.hh.ru/applicant/resumes/view?resume=166d89dcff0cf05a9c0039ed1f48706e414766
-
----
-
-### 🔧 Мои Технологии:
-
-- Frontend:
-  - React, Redux, Next.js;
-  - Vue 2, Vue 3, Pinia, Vuex, Nuxt;
-  - Typescript, JavaScript, HTML, CSS.
-- Backend:
-  - Express.js, MongoDB, Node.js, Nginx.
-- Misc:
-  - Git, Figma, Insomnia, Webpack, Babel.
-
-![giphy](https://github.com/cloudninefalling/cloudninefalling/assets/126521847/16e4bcec-98be-45ea-8e52-672395b8078b)
+### 🔧 Мои инструменты:
+- HTML;
+- JavaScript, TypeScript;
+- CSS, SCSS, SASS, CSS Modules;
+- Git, GitHub, GitLab;
+- Vue 2, Vue 3;
+- Nuxt 2, Nuxt 3, Nuxt 4;
+- Pinia, Vuex;
+- React;
+- Next 14, Next 15, Next 16;
+- Redux, Zustand;
+- Vuetify;
+- GSAP, Framer Motion;
+- Claude Code, Cursor;
+- Яндекс.Карты, 2ГИС;
+- Mindbox, Яндекс.Метрика.
